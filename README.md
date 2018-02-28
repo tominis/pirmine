@@ -1,0 +1,2 @@
+# pirmine
+mokslams
