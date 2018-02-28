@@ -1,0 +1,3 @@
+/PhpProject1/index.php
+/PhpProject1/apsilankymai/log.php
+/PhpProject1/echo.php
